@@ -1,0 +1,60 @@
+nopcommerce development for auto parts website, the site must be able to search by year, make and model , and search by VIN. the data source is called via API real-time to get the product list and category.
+Also required to develop the templated looks professional.
+
+
+
+
+
+can not get all data from API as it will have too many data and the data will changes from data source provider.
+
+can you do similar design or better as I send you earlier and intergrate with nop comm, I think when customer place the order, the same time you will insert product data in the system
+
+call time no an issues
+
+we are trying to only save the product data when user's place the order
+
+
+when you completed the project , I need you also provide the source code upload into Freelander
+
+can you take the design UI too?
+
+2000-3000
+Pls provide scope of work
+
+
+
+
+
+Test Site URL: https://peds.buyparts.biz/#login
+
+Username: AccelStg
+
+Password: mS2.wN5!
+
+Store Nbr: 1000000537
+
+Store Key: XBzDPSlSr8WoBijw
+
+Catalog Only Coverage Name: Canada Catalog Only
+
+Catalog Only Coverage Key: 735199728
+
+EPN Coverage Name: MKT031 Eagle USA data
+
+EPN Coverage Key: 640662256
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
